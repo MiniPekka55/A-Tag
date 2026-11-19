@@ -1,10 +1,10 @@
 # A-Tag Aufgabe 5
 ## Installation
 Für die Installation kann einfach git verwendet werden:
-'inline-code' git clone https://github.com/MiniPekka55/A-Tag.git
+`git clone https://github.com/MiniPekka55/A-Tag.git`
 ## Programm für mögliche Kombinationen starten
 Um das Programm zu starten, muss auf dem Host Computer die neuste Python Version laufen(3.15.2. Dann kann das Programm mit:
-'inline-code' python users/users/A-Tag/Aufgaben A Tag.py
+`python users/users/A-Tag/Aufgaben_A_Tag.py`
 gestartet werden. Dieses Skript berechnet, die Anzahl an möglichen Tagesplänen.
 ## Annahmen
 Das Programm nimmt die Annahmen an:
@@ -17,5 +17,5 @@ Das Programm nimmt die Annahmen an:
 Wenn das Programm fertig ist, wird eine Datei erstellt, wo alle Möglichkeiten aufgeschrieben sind.
 ## Programm für die Distanz zwischen zwei Orten starten
 Das Programm kann mit:
-'inline-code' python users/user/A-Tag/Distanzen A Tag.py
+`python users/user/A-Tag/Distanzen_A_Tag.py`
 gestartet werden
