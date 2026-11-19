@@ -13,3 +13,5 @@ Das Programm nimmt die Annahmen an:
 - Ein Besucher kann auch keinen Auftritt besuchen oder Auftritte auslassen.
 - Die Distanzen von Veranstaltungsorten innerhalb eines Ortes ist vernachlässigbar.
 - Ein Besucher nimmt maximal an 7 Auftritten teil.
+## Ausgabe
+Wenn das Programm fertig ist, wird eine Datei erstellt, wo alle Möglichkeiten aufgeschrieben sind.
