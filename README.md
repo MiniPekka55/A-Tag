@@ -1,12 +1,12 @@
 # A-Tag Aufgabe 5
-##Installation
+## Installation
 Für die Installation kann einfach git verwendet werden:
 'inline-code' git clone https://github.com/MiniPekka55/A-Tag.git
-##Programm starten
+## Programm starten
 Um das Programm zu starten, muss auf dem Host Computer die neuste Python Version laufen(3.15.2. Dann kann das Programm mit:
 'inline-code' python users/users/A-Tag Aufgaben A Tag.py
 gestartet werden. Dieses Skript berechnet, die Anzahl an möglichen Tagesplänen.
-##Annahmen
+## Annahmen
 Das Programm nimmt die Annahmen an:
 - Ein Besucher muss pünktlich bei einem Auftritt ankommen und geht erst, wenn es vorbei ist.
 - Jeder fährt mit genau 16km/h Fahrrad.
