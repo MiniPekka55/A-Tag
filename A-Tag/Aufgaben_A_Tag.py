@@ -1,4 +1,5 @@
 
+#Anfang + Ende aller Auftritte
 Konzerte = {
     "VLEK": {"Konzert1": [12.50, 13.25], "Konzert2": [13.75, 14.50], "Ort": "Aduard"},
     "JULIE": {"Konzert1": [12.50, 13.50], "Ort": "Garnwerd"},
@@ -28,7 +29,7 @@ Konzerte = {
     "KIKA": {"Konzert1": [18.75, 19.50], "Konzert2": [20.00, 20.75], "Ort": "Maarhuizen"},
 }
 
-
+#Distanzen zwischen allen Veranstaltungsorten
 Distanzen = {
     "Frytum": {"Frytum": 0, "Oldehove": 3, "Niehove": 2, "Garnwerd": 11, "Aduard": 8, "Den Ham": 4, "Noordhorn": 3, "Ezinge": 8, "Sauwerd": 15, "Fransum": 5, "Oostum": 11, "Maarhuizen": 14, "Winsum": 16, "Feerwerd": 9, "Noorderhoogebrug": 15, "Klein Wetsinge": 14, "Adorp": 13},
     "Oldehove": {"Frytum": 3, "Oldehove": 0, "Niehove": 3, "Garnwerd": 8, "Aduard": 10, "Den Ham": 5, "Noordhorn": 6, "Ezinge": 4, "Sauwerd": 12, "Fransum": 7, "Oostum": 10, "Maarhuizen": 11, "Winsum": 13, "Feerwerd": 6, "Noorderhoogebrug": 17, "Klein Wetsinge": 11, "Adorp": 14},
